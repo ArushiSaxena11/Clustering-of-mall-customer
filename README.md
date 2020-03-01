@@ -1,1 +1,1 @@
-# Clustering-of-mall-customer
+# Restaurant customer review analysis
